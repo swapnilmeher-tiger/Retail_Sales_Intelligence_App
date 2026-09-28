@@ -1,0 +1,8 @@
+{
+  "name": "Retail Sales Intelligence Hub",
+  "description": "An executive retail sales intelligence dashboard for multi-region store performance, target attainment, return rates, and inventory analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
